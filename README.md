@@ -4,9 +4,9 @@
 
 ## Participantes
 
-* Gabriel Molina Bulgarelli - C14826
-* Brandon Alonso Mora Umaña - C15179
-* Antonio Badilla Olivas - B80874
+* Gabriel Molina Bulgarelli - 
+* Brandon Alonso Mora Umaña - 
+* Antonio Badilla Olivas -
 
 ### Descripción
 
