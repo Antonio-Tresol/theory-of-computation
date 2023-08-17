@@ -1,0 +1,126 @@
+<data>
+    <topics>
+        <topic>Climate Change</topic>
+        <topic>Education</topic>
+        <topic>Environment</topic>
+        <topic>Virtual Reality</topic>
+    </topics>
+    <regions>
+        <region>Rwanda</region>
+        <region>Venezuela</region>
+        <region>Suiza</region>
+        <region>Australia</region>
+        <region>Poland</region>
+        <region>South Korea</region>
+        <region>Moldavia</region>
+        <region>Sweden</region>
+        <region>Brazil</region>
+        <region>Zimbabwe</region>
+    </regions> 
+    <sites>
+        <site>
+            <url>https://climateclock.world/</url>
+            <title>Climate Clock</title>
+            <topics>
+                <topic>Climate Change</topic>
+                <topic>Education</topic>
+            </topics>
+            <records>
+                <record>
+                  <initial-date>01-01-2022</initial-date>
+                  <final-date>31-01-2022</final-date>
+                  <region>Rwanda</region>
+                  <number-of-visits>12.5</number-of-visits>
+                </record>
+                <record>
+                  <initial-date>01-03-2022</initial-date>
+                  <final-date>31-03-2022</final-date>
+                  <region>Venezuela</region>
+                  <number-of-visits>8.3</number-of-visits>
+                </record>
+                <record>
+                  <initial-date>01-05-2022</initial-date>
+                  <final-date>31-05-2022</final-date>
+                  <region>Suiza</region>
+                  <number-of-visits>18.9</number-of-visits>
+                </record>
+            </records>
+        </site>
+        <site>
+            <url>https://unece.org</url>
+            <title>UNECE Homepage</title>
+            <topics>
+                <topic>Environment</topic>
+            </topics>
+            <records>
+                <record>
+                <initial-date>01-01-2020</initial-date>
+                <final-date>31-12-2020</final-date>
+                <region>Australia</region>
+                <number-of-visits>12.3</number-of-visits>
+                </record>
+    
+                <record>
+                <initial-date>01-01-2021</initial-date>
+                <final-date>31-12-2021</final-date>
+                <region>Poland</region>
+                <number-of-visits>20.1</number-of-visits>
+                </record>
+    
+                <record>
+                <initial-date>01-01-2022</initial-date>
+                <final-date>31-12-2022</final-date>
+                <region>South Korea</region>
+                <number-of-visits>15.8</number-of-visits>
+                </record>
+    
+                <record>
+                <initial-date>01-01-2023</initial-date>
+                <final-date>31-12-2023</final-date>
+                <region>Moldavia</region>
+                <number-of-visits>18.6</number-of-visits>
+                </record>
+            </records>
+        </site>
+        <site>
+            <url>https://www.vrs.org.uk/virtual-reality/what-is-virtual-reality.html</url>
+            <title>Virtual Reality Society</title>
+            <topics>
+                <topic>Virtual Reality</topic>
+                <topic>Education</topic>
+            </topics>
+            <records>
+                <record>
+                    <initial-date>02-08-2020</initial-date>
+                    <final-date>22-11-2020</final-date>
+                    <region>Sweden</region>
+                    <number-of-visits>25.6</number-of-visits>
+                </record>
+                <record>
+                    <initial-date>16-01-2021</initial-date>
+                    <final-date>10-04-2021</final-date>
+                    <region>Australia</region>
+                    <number-of-visits>12.4</number-of-visits>
+                </record>
+                <record>
+                    <initial-date>21-05-2021</initial-date>
+                    <final-date>15-09-2021</final-date>
+                    <region>Brazil</region>
+                    <number-of-visits>18.2</number-of-visits>
+                </record>
+                <record>
+                    <initial-date>10-11-2021</initial-date>
+                    <final-date>08-03-2022</final-date>
+                    <region>Rwanda</region>
+                    <number-of-visits>14.8</number-of-visits>
+                </record>
+                <record>
+                    <initial-date>12-04-2022</initial-date>
+                    <final-date>30-06-2022</final-date>
+                    <region>Zimbabwe</region>
+                    <number-of-visits>20.3</number-of-visits>
+                </record>
+            </records>
+        </site>
+    </sites>
+</data>
